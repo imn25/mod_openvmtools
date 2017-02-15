@@ -1,0 +1,11 @@
+{
+  "CHANGELOG.md": "dd327078701269049e1399b9f6c9009f",
+  "LICENSE": "eeb25aeb590b217c51933e915c0262ed",
+  "README.md": "9cf671c292c2115dc8018453d96d5ae1",
+  "manifests/init.pp": "f323be0673f1806c29a5c6eb77c573d5",
+  "manifests/install.pp": "8384b4243f96c1a2b9ce99da8bd40871",
+  "manifests/params.pp": "e68ed956f9f1701bc8d0954519135a8a",
+  "manifests/service.pp": "5e32ea1d220e0b067c52ca8ab32f8e87",
+  "metadata.json": "f07cc175c3147b0c0125f1517cf132b7",
+  "tests/init.pp": "5ac3023536fb6df9e9066951390e2e97"
+}

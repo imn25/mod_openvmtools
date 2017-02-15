@@ -1,0 +1,37 @@
+{
+  "name": "ceritsc-open_vm_tools",
+  "version": "0.9.3",
+  "author": "ceritsc",
+  "summary": "Install and configure Open VM Tools",
+  "license": "MIT",
+  "source": "https://github.com/CERIT-SC/puppet-open_vm_tools.git",
+  "project_page": "https://github.com/CERIT-SC/puppet-open_vm_tools",
+  "issues_url": "https://github.com/CERIT-SC/puppet-open_vm_tools/issues",
+  "tags": [
+    "open-vm-tools"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemmajrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 4.0.0"}
+  ]
+}
